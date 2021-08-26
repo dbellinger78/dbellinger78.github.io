@@ -17,7 +17,7 @@ align: center;
 }
 
 #header{
-background-image: url("_images/site-resources/cardboard-texture.jpg"); 
+background-image: url("_images/site-resources/cardboard-texture.JPG"); 
 color: white;
 text-align: center;
 width: 100%;
@@ -38,6 +38,11 @@ text-align: center;
 font-size: 2.5vw;
 }
 
+#main p {
+	padding-left: 5%;
+	padding-right: 5;
+}
+
 #footer{
 text-align: right;
 background-color: black;
@@ -50,7 +55,7 @@ clear: both;
 
 .navbar {
   overflow: hidden;
-  background-image: url("_images/site-resources/nav-menu.jpg");
+  background-image: url("_images/site-resources/nav-menu.JPG");
 }
 
 .navbar a {
