@@ -17,7 +17,7 @@ align: center;
 }
 
 #header{
-background-image: url("images/site-resources/cardboard-texture.JPG"); 
+background-image: url("cardboard-texture.JPG"); 
 color: white;
 text-align: center;
 width: 100%;
@@ -60,12 +60,12 @@ clear: both;
 
 .hero-img {
 	width: 90%;
-	align-content: center;
+	text-align: center;
 }
 
 .navbar {
   overflow: hidden;
-  background-image: url("images/site-resources/nav-menu.JPG");
+  background-image: url("nav-menu.JPG");
 }
 
 .navbar a {
