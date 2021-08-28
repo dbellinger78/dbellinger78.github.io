@@ -17,7 +17,7 @@ align: center;
 }
 
 #header{
-background-image: url("_images/site-resources/cardboard-texture.JPG"); 
+background-image: url("images/site-resources/cardboard-texture.JPG"); 
 color: white;
 text-align: center;
 width: 100%;
@@ -40,7 +40,12 @@ font-size: 2.5vw;
 
 #main p {
 	padding-left: 5%;
-	padding-right: 5;
+	padding-right: 5%;
+}
+
+#main ul ol {
+	padding-right: 8%;
+	padding-left: 8%;	
 }
 
 #footer{
@@ -53,9 +58,14 @@ font-family: san-serief;
 clear: both;
 }
 
+.hero-img {
+	width: 90%;
+	align-content: center;
+}
+
 .navbar {
   overflow: hidden;
-  background-image: url("_images/site-resources/nav-menu.JPG");
+  background-image: url("images/site-resources/nav-menu.JPG");
 }
 
 .navbar a {
