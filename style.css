@@ -34,13 +34,19 @@ font-size: 2.5vw;
 }
 
 #main p {
+	font-family: garmond, arial, san-serief;
 	padding-left: 5%;
 	padding-right: 5%;
 }
 
 #main ul ol {
+	margin-top: 2px;
 	padding-right: 8%;
 	padding-left: 8%;	
+}
+
+#main li {
+	font-family: garmond, arial, san-serief;
 }
 
 #footer{
@@ -54,9 +60,7 @@ clear: both;
 }
 
 .hero-img {
-	width: 90%;
-	margin-left: auto;
-	margin-right: auto;
+	width: 100%;
 }
 
 .navbar {
